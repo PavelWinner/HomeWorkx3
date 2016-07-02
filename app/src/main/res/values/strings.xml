@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWorkx3</string>
+    <string name="app_center_name">Приложения</string>
+    <string name="call">Call</string>
+    <string name="sms">SMS</string>
+    <string name="activity2">ACTIVITY2</string>
+</resources>
